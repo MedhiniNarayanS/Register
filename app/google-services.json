@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "739023234973",
+    "firebase_url": "https://test-app-7d8ba.firebaseio.com",
+    "project_id": "test-app-7d8ba",
+    "storage_bucket": "test-app-7d8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739023234973:android:b1a5babd7a4d40cc",
+        "android_client_info": {
+          "package_name": "com.example.medhini.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739023234973-mafiilnk8s6fi2q4im926ihneej7ldnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIoRXa3WNAlXiIwLIo_aGgJo_XGgSUAKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739023234973:android:f17e964aa6002c91",
+        "android_client_info": {
+          "package_name": "com.example.medhini.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739023234973-mafiilnk8s6fi2q4im926ihneej7ldnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIoRXa3WNAlXiIwLIo_aGgJo_XGgSUAKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
